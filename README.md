@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melROLL
 - 👀 I’m interested in Music, Technology, 3D printing and IT 
-- 🌱 I’m currently learning Engeneering 
+
 - 📫 Where to find me :
 - https://www.thingiverse.com/melmaking/designs
 - https://thangs.com/designer/melmaking
