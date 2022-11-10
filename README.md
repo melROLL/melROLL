@@ -7,7 +7,7 @@
 - https://meowsic611236501.wordpress.com/
 - https://soundcloud.com/rocknrolland
 
-[![melRol's contribution graph as a Game of Life](https://github4life.herokuapp.com/melROLL.gif)](https://github4life.herokuapp.com/ethomson)
+[![melRol's contribution graph as a Game of Life](https://github4life.herokuapp.com/ethomson.gif)](https://github4life.herokuapp.com/melROLL)
 
 
 <!---
