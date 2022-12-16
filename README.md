@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @melROLL
-- 👀 I’m interested in Music, Technology, 3D printing and IT 
-
+- 👋 Hi, I’m @melROLL. Thanks for coming here !
+<br />
+- 👀 I’m a Maker, an Engineer and a Musician, my interests are Music, Technology, 3D printing and IT 
+<br />
 - 📫 Where to find me : <br />
- https://www.thingiverse.com/melmaking/designs  \n
- https://thangs.com/designer/melmaking <br />
- https://meowsic611236501.wordpress.com/
- https://soundcloud.com/rocknrolland
+ 3D files : https://www.thingiverse.com/melmaking/designs <br />
+ 3D files : https://thangs.com/designer/melmaking <br />
+ A synthesizer Project : https://meowsic611236501.wordpress.com/ <br />
+ Some Music : https://soundcloud.com/rocknrolland <br />
 
 
 <!---
