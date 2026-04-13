@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @melROLL. Thanks for coming here !
 <br />
 
-- 👀 I’m a Maker, an Engineer and a Musician, my interests are Music, Technology, 3D printing and IT 
+- 👀 I’m a Maker, an Engineer and a Musician.
 <br />
 
 - 📫 Where to find me : <br />
